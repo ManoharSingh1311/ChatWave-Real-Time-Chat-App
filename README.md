@@ -33,5 +33,4 @@ Follow these steps to set up and run the ChatWave application locally:
 
 - Node.js installed on your machine
 - MongoDB installed and running
-- 
 
